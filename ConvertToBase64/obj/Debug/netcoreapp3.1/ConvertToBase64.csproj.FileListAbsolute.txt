@@ -1,0 +1,13 @@
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\bin\Debug\netcoreapp3.1\ConvertToBase64.exe
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\bin\Debug\netcoreapp3.1\ConvertToBase64.deps.json
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\bin\Debug\netcoreapp3.1\ConvertToBase64.runtimeconfig.json
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\bin\Debug\netcoreapp3.1\ConvertToBase64.runtimeconfig.dev.json
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\bin\Debug\netcoreapp3.1\ConvertToBase64.dll
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\bin\Debug\netcoreapp3.1\ConvertToBase64.pdb
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\obj\Debug\netcoreapp3.1\ConvertToBase64.csprojAssemblyReference.cache
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\obj\Debug\netcoreapp3.1\ConvertToBase64.AssemblyInfoInputs.cache
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\obj\Debug\netcoreapp3.1\ConvertToBase64.AssemblyInfo.cs
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\obj\Debug\netcoreapp3.1\ConvertToBase64.csproj.CoreCompileInputs.cache
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\obj\Debug\netcoreapp3.1\ConvertToBase64.dll
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\obj\Debug\netcoreapp3.1\ConvertToBase64.pdb
+D:\Projetos\Pessoal\ConvertToBase64\ConvertToBase64\obj\Debug\netcoreapp3.1\ConvertToBase64.genruntimeconfig.cache
